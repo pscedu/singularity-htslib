@@ -11,7 +11,7 @@ Singularity recipe for [htslib](https://github.com/samtools/htslib).
 Copy the
 
 * `SIF` file
-* and the `htslib` script
+* and the `htsfile`, `tabix` and  `bgzip` scripts
 
 to `/opt/packages/htslib/1.13`.
 
