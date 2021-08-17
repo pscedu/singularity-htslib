@@ -1,4 +1,5 @@
 ![Status](https://github.com/pscedu/singularity-htslib/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/pscedu/singularity-htslib/actions/workflows/pretty.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-htslib)
 ![Forks](https://img.shields.io/github/forks/pscedu/singularity-htslib)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-htslib)
